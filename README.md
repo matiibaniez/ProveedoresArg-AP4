@@ -20,23 +20,23 @@ El módulo implementado en esta entrega es **“Alta y Búsqueda de Proveedores�
 ## 📁 Estructura del Proyecto
 
 src/com/proveedoresarg
-│ Main.java
+│   Main.java
 │
 ├── controller
-│ └── ProveedorController.java
+│     └── ProveedorController.java
 │
 ├── dao
-│ ├── IProveedorDAO.java
-│ └── ProveedorDAO.java
+│     ├── IProveedorDAO.java
+│     └── ProveedorDAO.java
 │
 ├── db
-│ └── ConexionDB.java
+│     └── ConexionDB.java
 │
 ├── model
-│ └── Proveedor.java
+│     └── Proveedor.java
 │
 └── view
-└── ProveedorView.java
+      └── ProveedorView.java
 
 
 ## 🗄️ Base de Datos (MySQL)
