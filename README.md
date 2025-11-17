@@ -64,9 +64,6 @@ La conexión a MySQL se configura en `ConexionDB.java`.
 1. Instalar MySQL y crear la base ejecutando `script_bd.sql`.
 2. Configurar usuario y contraseña MySQL en:
 src/com/proveedoresarg/db/ConexionDB.java
-
-markdown
-Copiar código
 3. Compilar el proyecto en IntelliJ, NetBeans o cualquier IDE.
 4. Ejecutar la clase:
 Main.java
