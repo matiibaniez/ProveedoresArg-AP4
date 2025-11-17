@@ -38,10 +38,6 @@ src/com/proveedoresarg
 └── view
 └── ProveedorView.java
 
-yaml
-Copiar código
-
----
 
 ## 🗄️ Base de Datos (MySQL)
 
@@ -75,8 +71,7 @@ Copiar código
 4. Ejecutar la clase:
 Main.java
 
-yaml
-Copiar código
+
 5. Navegar por el menú en la consola:
 - Alta de proveedor  
 - Búsqueda por nombre  
